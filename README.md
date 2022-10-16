@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Yash 
+- 🌱 I’m currently learning Python
+- ⚡ Fun fact: 1 comes before 2
 
 <!--
 **yashthesupreme/yashthesupreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
